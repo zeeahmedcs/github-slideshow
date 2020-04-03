@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second file!"
 ---
-Your text
+Learning is Fun! :)
 Use the left arrow to go back!
 
